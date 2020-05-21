@@ -68,6 +68,20 @@
       </dmn:input>
       <dmn:output id="_9C7C0BF9-68F5-449B-94FD-0921A6A8E22B" name="Amount" typeRef="number"/>
       <dmn:output id="_15865EE6-5A03-45D3-851F-E888441082E7" name="Points" typeRef="number"/>
+      <dmn:rule id="_F7E92BC9-C86F-4AEC-9968-7DECFCFB8F7B">
+        <dmn:inputEntry id="_C9E09041-72A4-465B-BB8D-5B950D38BD58">
+          <dmn:text>"SPEED"</dmn:text>
+        </dmn:inputEntry>
+        <dmn:inputEntry id="_FFD505B2-4444-4563-8C76-242914BD07CE">
+          <dmn:text>&gt;10</dmn:text>
+        </dmn:inputEntry>
+        <dmn:outputEntry id="_B26A0217-CD5C-450C-816D-24AC4983E9BF">
+          <dmn:text>0</dmn:text>
+        </dmn:outputEntry>
+        <dmn:outputEntry id="_6B8A5577-B8E2-4DA6-A84E-8C6E8FB49B8D">
+          <dmn:text>0</dmn:text>
+        </dmn:outputEntry>
+      </dmn:rule>
       <dmn:rule id="_EADD9972-75BB-4236-BB25-B2819541119B">
         <dmn:inputEntry id="_419E4FF9-5D91-4C9E-923B-FA2E5D9A51F9">
           <dmn:text>"SPEED"</dmn:text>
