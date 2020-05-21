@@ -73,7 +73,7 @@
           <dmn:text>"SPEED"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_FFD505B2-4444-4563-8C76-242914BD07CE">
-          <dmn:text>&gt;10</dmn:text>
+          <dmn:text>&lt;10</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_B26A0217-CD5C-450C-816D-24AC4983E9BF">
           <dmn:text>0</dmn:text>
